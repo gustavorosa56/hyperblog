@@ -16,6 +16,7 @@
     margin: 0 auto;
 
 }
+<<<<<<< HEAD
 #cabecera{
     background: #33a;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0,5);
@@ -32,5 +33,9 @@
 }
 
 #contendedor  h1{
+=======
+
+#contendedor h1{
+>>>>>>> cabecera
     font-size: 20px;
 }
