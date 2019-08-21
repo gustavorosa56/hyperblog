@@ -1,0 +1,22 @@
+.body {
+    background: red;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+
+}
+
+#contendedor{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #000;
+    margin: 0 auto;
+
+}
+
+#contendedor h1{
+    font-size: 20px;
+}
