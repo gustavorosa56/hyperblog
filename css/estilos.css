@@ -1,8 +1,9 @@
-.body {
-    background: red;
+body {
+    background: white;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: 18px;
+    color: red;
     margin: 0;
     color: #33a;
     padding: 0;
