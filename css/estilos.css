@@ -1,5 +1,5 @@
 body {
-    background: white;
+    background:#1e1f24;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: 18px;
@@ -27,6 +27,11 @@ body {
     padding: 0.5em;
 }
 
+#cabecera #logo{
+    width: 30px;
+    vertical-align: middle;
+}
+
 #cabecera #linea{
     padding: 0 0 0 1em;
     font-weight: normal;
@@ -35,4 +40,9 @@ body {
 
 #contendedor  h1{
     font-size: 20px;
+}
+
+#post{
+    background: white;
+    padding: 1em;
 }
